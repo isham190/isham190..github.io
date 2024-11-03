@@ -50,7 +50,7 @@ body {
   }
   
   ul li {
-    display: inline;
-    margin-right: 10px;
-  }
+    margin-left: 10px;
+    list-style-type: circle;
+ }
   
